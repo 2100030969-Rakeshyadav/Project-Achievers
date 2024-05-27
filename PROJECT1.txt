@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Master
+=======
 
 
 My name is Manoj Sai Nulu
@@ -6,6 +9,7 @@ My name is Rakesh
 
 My name is Karnakar
 
+>>>>>>> origin/master
 //PALINDROME JAVA PROGRAM
 
 class PalindromeExample
