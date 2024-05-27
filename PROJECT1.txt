@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 Master
+=======
+
+
+My name is Manoj Sai Nulu
+
+My name is Rakesh
+
+My name is Karnakar
+
+>>>>>>> origin/master
 //PALINDROME JAVA PROGRAM
 
 class PalindromeExample
@@ -13,10 +24,12 @@ class PalindromeExample
    sum=(sum*10)+r;    
    n=n/10;    
   }    
-  if(temp==sum)    
-   System.out.println("palindrome number ");    
-  else    
-   System.out.println("not palindrome");    
+  if(temp==sum){    
+   System.out.println("palindrome number "); 
+}
+  else  {  
+   System.out.println("not palindrome");  
+}
 }  
 }  
 
